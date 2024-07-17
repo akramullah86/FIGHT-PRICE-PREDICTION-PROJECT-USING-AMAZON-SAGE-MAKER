@@ -10,14 +10,16 @@ The primary objective of this project is to develop a predictive model that can 
 **Data Source:**
 The dataset used for this project was obtained from Kaggle, which includes information such as departure and arrival times, flight durations, total stops, and airline details.
 
+
 **Key Features:**
 
-Airline: The airline operating the flight.
-Date of Journey: The date on which the journey is scheduled.
-Source and Destination: The airports where the flight departs from and arrives at.
-Route: The path taken by the flight, including any layovers.
-Duration: The total duration of the flight.
-Total Stops: The number of stops during the flight.
+  - Airline: The airline operating the flight.
+  - Date of Journey: The date on which the journey is scheduled.
+  Source and Destination: The airports where the flight departs from and arrives at.
+  Route: The path taken by the flight, including any layovers.
+  Duration: The total duration of the flight.
+  Total Stops: The number of stops during the flight.
+
 **Tech Stack:**
 
 **Python**: The core programming language used for data manipulation and model development.
