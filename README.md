@@ -62,3 +62,7 @@ Feel free to connect with me to discuss this project in detail or explore potent
 
 #DataScience #MachineLearning #FlightPricePrediction #Python #AI #BigData #PredictiveAnalytics
 
+**WEB APP LINK:**
+
+https://fight-price-prediction-project-using-amazon-sage-maker-l5jessv.streamlit.app/
+
